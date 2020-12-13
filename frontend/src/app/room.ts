@@ -1,7 +1,7 @@
 export class Room {
     id: number;
     name: string;
-    date:string
+    date:Date
     startHour: string;
     endHour: string;
     active: boolean;
